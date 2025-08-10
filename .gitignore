@@ -1,0 +1,40 @@
+# Model files
+*.h5
+*.pkl
+*.pickle
+*.pb
+*.ckpt
+*.pth
+*.weights
+
+# Dataset and image files
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.gif
+*.JPG
+*.JPEG
+*.PNG
+
+# Large data files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Tensorboard logs
+events.out.tfevents.*
+
+# Large directories (add specific ones if needed)
+datasets/
+data/
+models/
+
+# System files
+.DS_Store
+__pycache__/
+*.pyc
+
+# Large Folders
