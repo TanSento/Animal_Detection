@@ -1,0 +1,24 @@
+# Deep Learning Framework
+tensorflow>=2.0.0,<3.0.0
+keras>=2.3.0
+
+# Computer Vision
+opencv-python>=4.0.0
+
+# Scientific Computing
+numpy>=1.16.0
+matplotlib>=3.0.0
+pandas>=0.25.0
+
+# Image Processing
+Pillow>=6.0.0
+
+# Jupyter Notebook (for training)
+jupyter>=1.0.0
+notebook>=6.0.0
+
+# Hardware Interface (Jetson Nano)
+Jetson.GPIO>=2.0.0
+
+# Utilities
+python-dateutil>=2.8.0
